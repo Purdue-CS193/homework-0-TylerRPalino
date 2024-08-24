@@ -4,7 +4,7 @@
 - I really need to know gitHub!
 - It is suppoed to be easy
 - It is a class where I will actually use its info everyday
-- The teachers are super chill!!!
+- The teachers are super chill!!!!
 
 ## Welcome to GitHub Pages
 
