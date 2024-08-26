@@ -1,4 +1,4 @@
-#  Tyler's First CS193 Homework
+# Tyler Palino's First CS193 Homework
 
 ## My favorite things about CS193:
 - I really need to know gitHub!
